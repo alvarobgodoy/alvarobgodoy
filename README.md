@@ -13,6 +13,3 @@ I'm a proactive learner. Passionate about programming💻 and the space🌌. I a
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-<br />
-<br />
-Contact email: alvaro.godoy2002@gmail.com
